@@ -1,0 +1,10 @@
+@media (max-width: 720px) {
+    section {
+        width: 90vw;
+        padding: 25px;
+    }
+
+    section img {
+        margin-bottom: 25px;;
+    }
+}
